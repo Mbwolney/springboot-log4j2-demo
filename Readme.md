@@ -15,7 +15,7 @@ https://www.callicoder.com/spring-boot-log4j-2-example/
 **1. Clone the application**
 
 ```bash
-git clone https://github.com/callicoder/spring-boot-log4j-2-demo.git
+git clone https:https://github.com/Mbwolney/springboot-log4j2-demo.git
 ```
 
 **2. Build and run the app using maven**
@@ -23,7 +23,7 @@ git clone https://github.com/callicoder/spring-boot-log4j-2-demo.git
 ```bash
 cd spring-boot-log4j-2-demo
 mvn package
-java -jar target/log4j2-demo-0.0.1-SNAPSHOT.jar
+target/log4j2-demo-0.0.1-SNAPSHOT.war
 ```
 
 You can also run the app without packaging it using -
